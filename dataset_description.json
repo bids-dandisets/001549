@@ -1,0 +1,17 @@
+{
+    "Name": "Neural Spiking Data Responding to Transcranial Focused Ultrasound Stimulation in Freely Moving Rats",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "We performed Pavlovian cue-concurrent transcranial focused ultrasound stimulation (tFUS) stimulation during intracranial single-neuron recordings using a wearable array transducer targeting the nucleus accumbens (NAc) in awake and behaving rats.   The stimulation was delivered with a 64-element array transducer. Experimental parameters included pulse repetition frequency (PRF), tone burst duration (TBD), total sonication time, and input voltage to Vantage ultrasound system (can be converted to pressure level). For example, the notation mou05_50_50_50_5 indicates the animal number, PRF (Hz), input voltage (v), TBD (microseconds), and total sonication time (sec), respectively. ",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
